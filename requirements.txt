@@ -3,5 +3,5 @@ jupyter_client
 jupyterlab
 matplotlib
 numpy
-pytorch
 scikit-learn
+tensorflow
