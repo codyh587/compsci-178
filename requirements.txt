@@ -1,6 +1,6 @@
 ipykernel
-jupyterlab
 jupyter_client
+jupyterlab
 matplotlib
 numpy
 scikit-learn
