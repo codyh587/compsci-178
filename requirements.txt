@@ -1,5 +1,6 @@
 datasets
 ipykernel
+ipywidgets
 jupyter_client
 jupyterlab
 matplotlib
