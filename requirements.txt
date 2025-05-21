@@ -1,7 +1,7 @@
+datasets
 ipykernel
 jupyter_client
 jupyterlab
 matplotlib
 numpy
 scikit-learn
-tensorflow
